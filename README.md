@@ -12,24 +12,24 @@
 **最新更新日期：2025年11月10日** - 本列表内的网站均已亲测可用，点击相应链接即可访问。如需持续获取最新的ChatGPT镜像资源，建议收藏本页面。
 
 ### 🌟 AI Box 365 系列（重点推荐）
-- **AI Box 365 - 主站**: https://chat.aibox365.cn
-- **AI Box 365 - 国际站**: https://aibox365.com  
-- **AI Box 365 - ChatGPT专版**: https://aibox365.cn/chatgpt-sites/chatgpt.html
+- [AI Box 365 - 主站](https://chat.aibox365.cn)
+- [AI Box 365 - 国际站](https://aibox365.com)  
+- [AI Box 365 - ChatGPT专版](https://aibox365.cn/chatgpt-sites/chatgpt.html)
 
 ### 💎 其他优质镜像站详细对比
 
 | 镜像站名称 | 简要介绍 | 登录方式 | 注意事项 |
 |-----------|----------|----------|----------|
-| **AIBox** （https://chat.aibox365.cn）| 国内最大的AI聚合平台，支持GPT-5、GPT-4.1、o1、o3、Gemini 2.5、Claude等最新模型，所有模型不限制额度使用，已稳定运行两年。 | 手机、邮箱注册 | 注册赠送55算力值，每天赠送免费使用额度，会员价格59/月，所有模型无限额度使用 |
-| **CGS2** (https://cgs2.skybyte.me) | 稳定可用的ChatGPT镜像站，支持多种AI模型 | 无需登录，直接使用 | 完全免费，无需注册，即开即用 |
-| **Chat18** (https://chat18.aichatosaa.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
-| **V1 Chat** (https://v1.chat.syagc.com) | 简洁高效的ChatGPT镜像，响应速度快 | 无需登录，直接使用 | 界面简洁，操作便捷，适合快速对话 |
-| **RBNGIM** (https://rbngim.aitianhu1.top) | 多模型支持的AI平台，提供多样化服务 | 无需登录，直接使用 | 支持多种AI模型切换，功能全面 |
-| **MyAI Asia** (https://chat-1-1.myai.asia) | 亚洲地区优化的AI对话服务 | 无需登录，直接使用 | 针对亚洲用户优化，响应稳定 |
-| **Chat18** (https://chat18.aichatos58.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
-| **Chat AI365** (https://chat.ai365vip.com) | 专业AI对话平台，支持高级功能 | 无需登录，直接使用 | 提供专业级AI服务，适合深度使用 |
-| **Chat14** (https://chat14.aichatos.xyz) | 最新版本的AI对话镜像站 | 无需登录，直接使用 | 持续更新，保持最新功能 |
-| **Chat18** (https://cht18.aichatosd.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
+| [AIBox](https://chat.aibox365.cn) | 国内最大的AI聚合平台，支持GPT-5、GPT-4.1、o1、o3、Gemini 2.5、Claude等最新模型，所有模型不限制额度使用，已稳定运行两年。 | 手机、邮箱注册 | 注册赠送55算力值，每天赠送免费使用额度，会员价格59/月，所有模型无限额度使用 |
+| [CGS2](https://cgs2.skybyte.me) | 稳定可用的ChatGPT镜像站，支持多种AI模型 | 无需登录，直接使用 | 完全免费，无需注册，即开即用 |
+| [Chat18](https://chat18.aichatosaa.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
+| [V1 Chat](https://v1.chat.syagc.com) | 简洁高效的ChatGPT镜像，响应速度快 | 无需登录，直接使用 | 界面简洁，操作便捷，适合快速对话 |
+| [RBNGIM](https://rbngim.aitianhu1.top) | 多模型支持的AI平台，提供多样化服务 | 无需登录，直接使用 | 支持多种AI模型切换，功能全面 |
+| [MyAI Asia](https://chat-1-1.myai.asia) | 亚洲地区优化的AI对话服务 | 无需登录，直接使用 | 针对亚洲用户优化，响应稳定 |
+| [Chat18](https://chat18.aichatos58.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
+| [Chat AI365](https://chat.ai365vip.com) | 专业AI对话平台，支持高级功能 | 无需登录，直接使用 | 提供专业级AI服务，适合深度使用 |
+| [Chat14](https://chat14.aichatos.xyz) | 最新版本的AI对话镜像站 | 无需登录，直接使用 | 持续更新，保持最新功能 |
+| [Chat18](https://cht18.aichatosd.com) | 功能丰富的AI对话平台，支持实时对话 | 无需登录，直接使用 | 提供稳定的免费服务，适合日常使用 |
 
 
 ## 🤖 2025年最新AI大模型技术解析
